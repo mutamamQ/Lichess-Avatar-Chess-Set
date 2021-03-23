@@ -7,6 +7,7 @@ chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfob
 firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/
 
 2. Go to https://raw.githubusercontent.com/mutamamQ/Lichess-Avatar-Chess-Set/main/avatar.css and copy everything.
-3. Open stylus and press write new style and paste the code.
+3. Open stylus and press write new style, click import and paste the code.
 4. When prompted press override.
-5. Enable the theme and have fun!
+5. Give the theme a name and save.
+6. Enable the theme and have fun!
